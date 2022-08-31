@@ -62,12 +62,13 @@ git push
 ```sh
 git pull
 ```
-* *takes any changes from remote repository and combine with the local one*
+* *takes any changes from remote repository and combines with the local one*
 
 ```sh
 git checkout -b name_of_branch
 ```
 * *Creates a branch, then jumps to it*
+
 
 ***The End***
 
